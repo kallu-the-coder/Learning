@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/OurWebsite/static/css/main.cb5081c2.css",
-    "main.js": "/OurWebsite/static/js/main.d235226b.js",
-    "static/js/453.ed3810f9.chunk.js": "/OurWebsite/static/js/453.ed3810f9.chunk.js",
-    "static/media/theme2.mp3": "/OurWebsite/static/media/theme2.4bb13743910f4ecbe82b.mp3",
-    "static/media/image_Piano.jpg": "/OurWebsite/static/media/image_Piano.c78898000d18329b68a7.jpg",
-    "index.html": "/OurWebsite/index.html",
-    "main.cb5081c2.css.map": "/OurWebsite/static/css/main.cb5081c2.css.map",
-    "main.d235226b.js.map": "/OurWebsite/static/js/main.d235226b.js.map",
-    "453.ed3810f9.chunk.js.map": "/OurWebsite/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Learning/static/css/main.cb5081c2.css",
+    "main.js": "/Learning/static/js/main.1be32221.js",
+    "static/js/453.ed3810f9.chunk.js": "/Learning/static/js/453.ed3810f9.chunk.js",
+    "static/media/theme2.mp3": "/Learning/static/media/theme2.4bb13743910f4ecbe82b.mp3",
+    "static/media/image_Piano.jpg": "/Learning/static/media/image_Piano.c78898000d18329b68a7.jpg",
+    "index.html": "/Learning/index.html",
+    "main.cb5081c2.css.map": "/Learning/static/css/main.cb5081c2.css.map",
+    "main.1be32221.js.map": "/Learning/static/js/main.1be32221.js.map",
+    "453.ed3810f9.chunk.js.map": "/Learning/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb5081c2.css",
-    "static/js/main.d235226b.js"
+    "static/js/main.1be32221.js"
   ]
 }
