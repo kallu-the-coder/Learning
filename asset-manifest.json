@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/OurWebsite/static/css/main.f855e6bc.css",
-    "main.js": "/OurWebsite/static/js/main.c095424f.js",
+    "main.css": "/OurWebsite/static/css/main.cb5081c2.css",
+    "main.js": "/OurWebsite/static/js/main.45a41b05.js",
     "static/js/453.ed3810f9.chunk.js": "/OurWebsite/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/OurWebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/image_Piano.jpg": "/OurWebsite/static/media/image_Piano.c78898000d18329b68a7.jpg",
     "index.html": "/OurWebsite/index.html",
-    "main.f855e6bc.css.map": "/OurWebsite/static/css/main.f855e6bc.css.map",
-    "main.c095424f.js.map": "/OurWebsite/static/js/main.c095424f.js.map",
+    "main.cb5081c2.css.map": "/OurWebsite/static/css/main.cb5081c2.css.map",
+    "main.45a41b05.js.map": "/OurWebsite/static/js/main.45a41b05.js.map",
     "453.ed3810f9.chunk.js.map": "/OurWebsite/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.c095424f.js"
+    "static/css/main.cb5081c2.css",
+    "static/js/main.45a41b05.js"
   ]
 }
